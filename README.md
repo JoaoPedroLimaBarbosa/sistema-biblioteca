@@ -35,6 +35,7 @@ Para rodar o projeto no **PostgreSQL (pgAdmin)**:
 ## 4. Diagrama de Entidade e Relacionamento (DER)
 
 ![DER do Sistema de Biblioteca](der.png)
+![der](https://github.com/user-attachments/assets/a7ff37f9-d88f-4e49-bab4-2a02d7f9774f)
 
 ---
 
